@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+gradio
+sentence-transformers
+pinecone-client
+pinecone-text
+transformers
+datasets
+torch
+python-dotenv
+pandas
+scikit-learn
+tqdm
+Pillow
+# Add this:
+google-generativeai
+# Optional: remove this if OpenAI is no longer needed
+# openai
